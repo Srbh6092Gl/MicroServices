@@ -1,0 +1,5 @@
+package com.example.employeeservices.repository;
+
+public interface EmpRepository {
+
+}
